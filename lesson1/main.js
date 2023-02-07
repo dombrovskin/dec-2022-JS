@@ -39,4 +39,5 @@ console.log(typeof l);
 let o ='100';
 console.log(typeof o)
 let k = true;
-console.log(k)
+console.log(k);
+prompt()
