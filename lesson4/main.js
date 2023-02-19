@@ -131,3 +131,12 @@ exchange(
     'usd'
 )
 );
+
+
+const string1 = 'hello world';
+const string2 = 'lorem ipsum';
+const string3 = 'javascript is cool';
+
+console.log('Довжина string1: ', string1.length);
+console.log('Довжина string2: ', string2.length);
+console.log('Довжина string3: ', string3.length);

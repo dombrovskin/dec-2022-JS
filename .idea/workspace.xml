@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c1416bb-8793-49ff-837c-3121dc5e666c" name="Changes" comment="two please commit">
-      <change afterPath="$PROJECT_DIR$/lesson4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,9 @@
       <workItem from="1675861173142" duration="18853000" />
       <workItem from="1675955895984" duration="5624000" />
       <workItem from="1676046922206" duration="4481000" />
-      <workItem from="1676473260260" duration="11970000" />
+      <workItem from="1676473260260" duration="12277000" />
+      <workItem from="1676730432210" duration="631000" />
+      <workItem from="1676801347798" duration="8508000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1675268185009</created>
@@ -90,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675894088381</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="two please commit">
+      <created>1676562524034</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676562524034</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
